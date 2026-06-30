@@ -1,4 +1,4 @@
-# ⛏️ Break A Lucky Block Script – Auto Secret, Auto Farm, No Key | 2026
+# ⛏️ Break A Lucky Block Script — Auto Secret, Auto Farm, No Key | 2026
 
 A **Break A Lucky Block script** for Roblox is a powerful automation tool that transforms the way you play the game. Instead of manually grinding block after block, this script handles everything for you — auto-mining, auto-collecting rare drops, freezing enemies, and teleporting to the best Lucky Blocks on the map. Whether you're chasing Secret or God-tier loot, this script gives you the ultimate edge.
 
